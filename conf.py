@@ -240,3 +240,22 @@ texinfo_documents = [
 
 # How to display URL addresses: 'footnote', 'no', or 'inline'.
 #texinfo_show_urls = 'footnote'
+
+sys.path.append(os.path.abspath('_themes'))
+html_theme_path = ['_themes']
+
+# The theme to use for HTML and HTML Help pages.  See the documentation for
+# a list of builtin themes.
+html_theme = 'sphinx-bootstrap'
+
+# Theme options are theme-specific and customize the look and feel of a theme
+# further.  For a list of options available for each theme, see the
+# documentation.
+html_theme_options = {
+    'analytics_code': 'UA-00000000-1',
+    'github_user': 'scotch',
+    'github_repo': 'sphinx-bootstrap',
+    'twitter_username': 'scotchmedia',
+    'home_url': 'http://code.scotchmedia.com/sphinx-bootstrap',
+    'disqus_shortname': 'scotchmedia',
+}
