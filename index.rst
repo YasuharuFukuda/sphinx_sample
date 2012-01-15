@@ -11,8 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   expert_python
-   art_of_community
+   test1
+   test2
 
 Indices and tables
 ==================
