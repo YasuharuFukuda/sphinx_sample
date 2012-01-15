@@ -1,0 +1,22 @@
+.. yasu-sphinx documentation master file, created by
+   sphinx-quickstart on Sun Jan 15 22:36:48 2012.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to yasu-sphinx's documentation!
+=======================================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   expert_python
+   art_of_community
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
