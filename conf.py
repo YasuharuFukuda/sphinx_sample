@@ -253,9 +253,7 @@ html_theme = 'sphinx-bootstrap'
 # documentation.
 html_theme_options = {
     'analytics_code': 'UA-00000000-1',
-    'github_user': 'scotch',
-    'github_repo': 'sphinx-bootstrap',
-    'twitter_username': 'scotchmedia',
-    'home_url': 'http://code.scotchmedia.com/sphinx-bootstrap',
-    'disqus_shortname': 'scotchmedia',
+    'github_user': 'YasuharuFukuda',
+    'github_repo': 'sphinx_sample',
+    'twitter_username': 'yasuharu2',
 }
